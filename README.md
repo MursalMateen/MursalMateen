@@ -15,4 +15,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mursalmateen&show_icons=true&locale=en&layout=compact" alt="mursalmateen" /></p>
 
-<img align="centre" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTN5OW15b25uMWExYjhwdDN6YnIyajEzNWl5cWM2dzdyazZrYW0wOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o2KLYPem407CM/giphy.webp"  />
+
