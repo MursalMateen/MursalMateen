@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mursal Mateen</h1>
-<h3 align="center">"Innovative Coder | Crafting Solutions with Precision and Passion"</h3>
+<h3 align="center">"Innovative Coder"</h3>
 
 - 💬 Ask me about **python, C++ and C#**
 
