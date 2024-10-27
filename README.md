@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mursal Mateen</h1>
+<h1 align="center"> I'm Mursal Mateen</h1>
 <h3 align="center">"Innovative Coder | Crafting Solutions with Precision and Passion"</h3>
 
 - 💬 Ask me about **python, C++ and C#**
