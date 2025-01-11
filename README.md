@@ -14,6 +14,6 @@
 ![Unity](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Icon.svg/1200px-Unity_Icon.svg.png)
 
 ### 💻 Programming Languages  
-![C#](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png)  
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
-![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="30"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" width="30"/>
