@@ -5,7 +5,7 @@ I'm a passionate game development enthusiast and entrepreneur focused on driving
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/mursal-mateen-dev/)
+[![LinkedIn](https://www.linkedin.com/in/mursal-mateen-dev/)
 
 ---
 
