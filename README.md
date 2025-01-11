@@ -15,7 +15,6 @@ I'm a passionate game development enthusiast and entrepreneur focused on driving
   ![Unity](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Icon.svg/1200px-Unity_Icon.svg.png)
 
 - **Programming Languages**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="30"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" width="30"/>
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="35"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="35"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" width="35"/>
